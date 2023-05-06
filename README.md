@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[testimg](https://github.com/yansq/EasyChess/blob/main/public/vite.svg)
+
 [![Top Langs]](https://github.com/yansq)
 
 [Top Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=yansq&layout=compact
