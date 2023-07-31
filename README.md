@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Top Langs]](https://github.com/yansq)
 
-[Top Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=yansq&layout=compact&langs_count=10
+[Top Langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=yansq&layout=compact&langs_count=8
